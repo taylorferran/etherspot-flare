@@ -4,13 +4,13 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 30vmin;
   pointer-events: none;
 }
 
 
 .App-title {
-  font-size: calc(50px + 2vmin);
+  font-size: calc(30px + 2vmin);
   font-weight: bold;
 }
 
@@ -31,6 +31,14 @@
 
 .App-link {
   color: #000000;
+}
+
+.App-input {
+  color: #000000;
+  border-color: #000000;
+  margin-top: 3px;
+  border-width: 2px;
+  text-align: center;
 }
 
 @keyframes App-logo-spin {
